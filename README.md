@@ -6,9 +6,13 @@ Repository Structure
 The repository contains the following files:
 
 Britta NewlyMultiple_year_stock_data: This is the workbook for the assignment. 
+
 Stock_Analysis_For: The main VBA script that performs the stock data analysis, loops through the quarters, and applies conditional formatting.
+
 Great_Incrs_Great_Dcrs_Total_Vol: VBA script that performs finding the greatest increase in quarterly, the greatest decrease in quarterly change and the highest total stock volume.
+
 Screenshots: A folder containing screenshots of the output results, demonstrating the successful execution of the script and the expected outcomes.
+
 README.md: This README file that describes the project, its requirements, and instructions for use
 
 Instructions
